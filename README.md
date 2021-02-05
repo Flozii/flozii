@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Flozii's github <img src="https://giphy.com/gifs/GqtNlBsWoEXDy" width="25px"> </h1>
+   <h1>Flozii's github 🙌</h1>
 </div>
 <p align="center">
 <a href=https://discord.gg/7wMXEHptFn target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg alt="Discord" height="25" width="25" /></a>
