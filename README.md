@@ -9,7 +9,7 @@
  
 </p>
 
-<h3 align="center">Self-educated developer 🇫🇷</h3>
+<h3 align="center">Self-educated developer</h3>
 <br/>
 
 ---
