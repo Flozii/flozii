@@ -15,7 +15,7 @@
 ---
 
 - 🔨 I'm currently working on a FiveM server.
-- 💻 I’m learning JS / REACT
+- 💻 I’m learning Vue and react
 - 💽 Developped and owned InitialV, AlphaV, SunWise
 
 ---
