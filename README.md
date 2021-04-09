@@ -26,7 +26,7 @@
   <summary>👀 My GitHub Stats</summary>
 
 <a href="https://github.com/Flozii/flozii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flozii" alt="Flozii's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flozii&layout=compact&hide_border=true&theme=midnight-purple" alt="Flozii's GitHub Stats" />
 </a>
 
 </details>
