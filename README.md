@@ -14,7 +14,7 @@
 
 ---
 
-- 🔨 I'm currently working on a FiveM server.
+- 🔨 I'm currently working on a FiveM PVP server.
 - 💻 I’m learning C#
 - 💽 Developped and owned InitialV, AlphaV, SunWise
 
