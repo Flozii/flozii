@@ -14,7 +14,7 @@
 ---
 
 - 🔨 I'm currently working on a FiveM PVP server.
-- 💻 I’m learning C# and node.js for cphone
+- 💻 I’m learning TypeScript
 - 💽 Developped and owned [InitialV](https://github.com/Naamelesss/InitialV), AlphaV, [SunWise](https://github.com/SunWise-Network)
 
 ---
