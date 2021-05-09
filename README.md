@@ -38,8 +38,8 @@
 
 
 <a href=https://discord.gg/BKvG2Dy7rf target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png alt="languages JavaScript"  width="26" /></a>
-<a href=https://discord.gg/BKvG2Dy7rf target="blank"><img align="center" src=https://cdn.discordapp.com/attachments/830936141657931806/831189125641011230/dGeeCAAAAAElFTkSuQmCC.png alt="languages MySQL"  width="26" /></a>
 <a href=https://discord.gg/BKvG2Dy7rf target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png alt="languages LUA"  width="26" /></a>
 <a href=https://discord.gg/BKvG2Dy7rf target="blank"><img align="center" src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png alt="languages Python"  width="26" /></a>
 <a href=https://discord.gg/BKvG2Dy7rf target="blank"><img align="center" src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png alt="languages Git"  width="26" /></a>
 <a href=https://discord.gg/BKvG2Dy7rf target="blank"><img align="center" src=https://www.developpez.com/public/images/news/node-js10.png alt="languages Node.js"  width="26" /></a>
+<a href=https://discord.gg/BKvG2Dy7rf target="blank"><img align="center" src=https://cdn.discordapp.com/attachments/830936141657931806/831189125641011230/dGeeCAAAAAElFTkSuQmCC.png alt="languages MySQL"  width="26" /></a>
