@@ -13,8 +13,7 @@
 
 ---
 
-- 🔨 I'm currently working on a FiveM PVP server.
-- 💻 I’m learning TypeScript
+- 🔨 I'm currently working on a FiveM PVP server, and contributing to a lot of projects.
 - 💽 Developped and owned [InitialV](https://github.com/Naamelesss/InitialV), AlphaV, [SunWise](https://github.com/SunWise-Network)
 
 ---
