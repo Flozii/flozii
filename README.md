@@ -23,12 +23,12 @@
 <details>
   <summary>👀 My GitHub Stats</summary>
 
-<a href="https://github.com/Flozii/flozii">
+<a href="https://github.com/Flozii">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flozii&show_icons=true&layout=compact&hide_border=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Flozii's GitHub Stats" />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flozii&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/flozii)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flozii&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/Flozii)
    
-  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flozii&theme=gruvbox&hide_border=true)
+  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flozii&theme=gruvbox&hide_border=true)](https://github.com/Flozii)
 
 </a>
 
