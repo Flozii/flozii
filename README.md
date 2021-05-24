@@ -28,8 +28,6 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flozii&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/Flozii)
    
-  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flozii&theme=gruvbox&hide_border=true)](https://github.com/Flozii)
-
 </a>
 
 </details>
