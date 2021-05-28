@@ -22,7 +22,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flozii&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/Flozii)
    
-  [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=flozii&hide_border=true&theme=gruvbox)](https://github.com/Flozii)
+  [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=flozii)](https://github.com/Flozii)
 </a>
 
 </details>
